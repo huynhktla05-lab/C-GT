@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_camera.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_camera.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_check_circle.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_close_button_background.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/close_button_background.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/raw_alert_sound1.mp3.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/raw/alert_sound1.mp3"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_gradient_header_modern.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/gradient_header_modern.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_popup_background.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/popup_background.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_eye.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_eye.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_check.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_btn_red.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/btn_red.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_progress_track.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_progress_track.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_circle.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_circle.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/raw_alert_sound4.mp3.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/raw/alert_sound4.mp3"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_status_panel.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_status_panel.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_play.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/raw_alert_sound2.mp3.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/raw/alert_sound2.mp3"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_danger.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_danger.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_btn_primary.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/btn_primary.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/raw_alert_sound.mp3.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/raw/alert_sound.mp3"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/raw_alert_sound5.mp3.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/raw/alert_sound5.mp3"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_gradient_header.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/gradient_header.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_metric_card.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_metric_card.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/xml_data_extraction_rules.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_car.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_car.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_button_primary.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-pngs-41:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_progress_gradient.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_progress_gradient.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/xml_backup_rules.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/layout-land_activity_main.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_card_elevated.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_card_elevated.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/layout_activity_main.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_button_background.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/button_background.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_pause.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/layout_popup_camera_layout.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/layout/popup_camera_layout.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_camera_container.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_camera_container.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_warning.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_warning.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_main.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_main.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/raw_alert_sound3.mp3.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/raw/alert_sound3.mp3"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-debug-45:/drawable_bg_card_glass.xml.flat",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/drawable/bg_card_glass.xml"
+    }
+]
