@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-mergeDebugResources-44:/layout/popup_camera_layout.xml",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/layout/popup_camera_layout.xml"
+    },
+    {
+        "merged": "com.intelligenttraffic.alertdrive.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.intelligenttraffic.alertdrive.app-main-47:/layout/activity_main.xml"
+    }
+]
