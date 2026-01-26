@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.intelligenttraffic.alertdrive.app-mergeDebugResources-43:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\huynh\\.gradle\\caches\\8.13\\transforms\\a8fb6132e4fa40b8fc7a052f2d7d4414\\transformed\\material-1.12.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
