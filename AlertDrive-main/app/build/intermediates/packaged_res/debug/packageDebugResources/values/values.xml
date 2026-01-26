@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#0066cc</color>
+    <color name="accent_cyan">#013237</color>
+    <color name="accent_pink">#C0E6BA</color>
+    <color name="accent_purple">#4CA771</color>
+    <color name="alert_danger">#dc3545</color>
+    <color name="alert_info">#0066cc</color>
+    <color name="alert_success">#4CA771</color>
+    <color name="alert_warning">#f39c12</color>
+    <color name="background_dark">#013237</color>
+    <color name="background_main">#FFFFFF</color>
+    <color name="background_secondary">#EAF9E7</color>
+    <color name="black">#FF000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_elevated">#EAF9E7</color>
+    <color name="divider">#C0E6BA</color>
+    <color name="glass_background">#4DEAF9E7</color>
+    <color name="glass_stroke">#4DC0E6BA</color>
+    <color name="gradient_center">#C0E6BA</color>
+    <color name="gradient_end">#EAF9E7</color>
+    <color name="gradient_start">#4CA771</color>
+    <color name="green_dark">#013237</color>
+    <color name="green_light">#C0E6BA</color>
+    <color name="green_lightest">#EAF9E7</color>
+    <color name="green_medium">#4CA771</color>
+    <color name="outline">#C0E6BA</color>
+    <color name="primary">#4CA771</color>
+    <color name="primary_dark">#013237</color>
+    <color name="primary_light">#C0E6BA</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="status_blue">#0066cc</color>
+    <color name="status_green">#4CA771</color>
+    <color name="status_orange">#fd7e14</color>
+    <color name="status_red">#dc3545</color>
+    <color name="status_yellow">#f39c12</color>
+    <color name="surface_dark">#013237</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_variant">#C0E6BA</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_on_light">#013237</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#013237</color>
+    <color name="text_secondary">#4CA771</color>
+    <color name="text_tertiary">#6E7681</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="camera_overlay_margin">16dp</dimen>
+    <dimen name="camera_status_padding">12dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="icon_size_large">32dp</dimen>
+    <dimen name="icon_size_medium">24dp</dimen>
+    <dimen name="icon_size_small">20dp</dimen>
+    <dimen name="layout_margin_bottom">12dp</dimen>
+    <dimen name="layout_margin_horizontal">16dp</dimen>
+    <dimen name="layout_margin_top">12dp</dimen>
+    <dimen name="layout_margin_vertical">8dp</dimen>
+    <dimen name="progress_bar_height">8dp</dimen>
+    <dimen name="progress_bar_margin">8dp</dimen>
+    <dimen name="spacing_large">16dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_xlarge">20dp</dimen>
+    <dimen name="spacing_xxlarge">24dp</dimen>
+    <dimen name="text_size_body">16sp</dimen>
+    <dimen name="text_size_caption">14sp</dimen>
+    <dimen name="text_size_header">28sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_title">18sp</dimen>
+    <string name="app_name">AlertDrive</string>
+    <string name="camera_icon_desc">Biểu tượng camera</string>
+    <string name="close_symbol">×</string>
+    <string name="driver_status_monitoring">Đang theo dõi trạng thái tài xế</string>
+    <string name="eye_status_default">👁️ MẮT: ĐANG MỞ</string>
+    <string name="open_app">MỞ APP</string>
+    <string name="popup_title">AlertDrive - Theo dõi tài xế</string>
+    <style name="Theme.AlertDrive" parent="Theme.MaterialComponents.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        
+        <item name="colorSecondary">@color/green_light</item>
+        <item name="colorSecondaryVariant">@color/green_medium</item>
+        <item name="colorOnSecondary">@color/text_on_light</item>
+        
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        
+    </style>
+</resources>

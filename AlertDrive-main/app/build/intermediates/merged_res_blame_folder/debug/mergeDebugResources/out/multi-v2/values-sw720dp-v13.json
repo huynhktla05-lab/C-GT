@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.intelligenttraffic.alertdrive.app-mergeDebugResources-43:/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\huynh\\OneDrive\\Desktop\\AlertDrive-main\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "13,14,15,9,10,11,5,6,3,7,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "497,541,597,358,403,449,215,261,120,310,168",
+                        "endColumns": "43,55,53,44,45,46,45,48,47,46,46",
+                        "endOffsets": "536,592,646,398,444,491,256,305,163,352,210"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,155,209,254,300,347,393,442,490,537",
+                        "endColumns": "43,55,53,44,45,46,45,48,47,46,46",
+                        "endOffsets": "94,150,204,249,295,342,388,437,485,532,579"
+                    }
+                }
+            ]
+        }
+    ]
+}

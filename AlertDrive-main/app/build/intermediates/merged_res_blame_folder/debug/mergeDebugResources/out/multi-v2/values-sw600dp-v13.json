@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.intelligenttraffic.alertdrive.app-mergeDebugResources-43:/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\huynh\\.gradle\\caches\\8.13\\transforms\\a8fb6132e4fa40b8fc7a052f2d7d4414\\transformed\\material-1.12.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,553,617,673,732,795",
+                        "endLines": "2,3,4,5,6,7,9,10,11,12,13,17",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "110,180,251,323,381,439,548,612,668,727,790,962"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15,16,17,19,22,23,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "655,715,785,856,928,986,1044,1153,1327,1383,1817,1880",
+                        "endLines": "11,12,13,14,15,16,18,19,22,23,32,36",
+                        "endColumns": "59,69,70,71,57,57,10,63,55,58,62,10",
+                        "endOffsets": "710,780,851,923,981,1039,1148,1212,1378,1437,1875,2047"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\huynh\\.gradle\\caches\\8.13\\transforms\\25277a1ed604af6739a6ecc20269f46d\\transformed\\appcompat-1.7.1\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\huynh\\OneDrive\\Desktop\\AlertDrive-main\\app\\src\\main\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "13,14,15,9,10,11,5,6,3,7,4",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "489,533,589,350,395,441,207,253,112,302,160",
+                        "endColumns": "43,55,53,44,45,46,45,48,47,46,46",
+                        "endOffsets": "528,584,638,390,436,483,248,297,155,344,202"
+                    },
+                    "to": {
+                        "startLines": "10,20,21,24,25,26,27,28,29,30,31",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,1217,1273,1442,1487,1533,1580,1626,1675,1723,1770",
+                        "endColumns": "43,55,53,44,45,46,45,48,47,46,46",
+                        "endOffsets": "650,1268,1322,1482,1528,1575,1621,1670,1718,1765,1812"
+                    }
+                }
+            ]
+        }
+    ]
+}
